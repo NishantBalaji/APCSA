@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Maintain\ details\ of\ someone\ who\ participates\ in\ an\ auction.\r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\r\n\ @version\ 2016.02.29\r\n
+comment1.params=name
+comment1.target=Person(java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ person\ with\ the\ given\ name.\r\n\ @param\ name\ The\ person's\ name.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ The\ person's\ name.\r\n
+numComments=3
+=======
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Maintain\ details\ of\ someone\ who\ participates\ in\ an\ auction.\r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\r\n\ @version\ 2016.02.29\r\n
+comment1.params=name
+comment1.target=Person(java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ person\ with\ the\ given\ name.\r\n\ @param\ name\ The\ person's\ name.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ The\ person's\ name.\r\n
+numComments=3
+>>>>>>> f778407943f59f3948a1021a3bf16816ae3b8180

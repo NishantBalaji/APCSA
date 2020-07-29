@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+#BlueJ class context
+comment0.target=Lot
+comment0.text=\r\n\ A\ class\ to\ model\ an\ item\ (or\ set\ of\ items)\ in\ an\r\n\ auction\:\ a\ lot.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\r\n\ @version\ 2016.02.29\r\n
+comment1.params=number\ description
+comment1.target=Lot(int,\ java.lang.String)
+comment1.text=\r\n\ Construct\ a\ Lot,\ setting\ its\ number\ and\ description.\r\n\ @param\ number\ The\ lot\ number.\r\n\ @param\ description\ A\ description\ of\ this\ lot.\r\n
+comment2.params=bid
+comment2.target=boolean\ bidFor(Bid)
+comment2.text=\r\n\ Attempt\ to\ bid\ for\ this\ lot.\ A\ successful\ bid\r\n\ must\ have\ a\ value\ higher\ than\ any\ existing\ bid.\r\n\ @param\ bid\ A\ new\ bid.\r\n\ @return\ true\ if\ successful,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ @return\ A\ string\ representation\ of\ this\ lot's\ details.\r\n
+comment4.params=
+comment4.target=int\ getNumber()
+comment4.text=\r\n\ @return\ The\ lot's\ number.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDescription()
+comment5.text=\r\n\ @return\ The\ lot's\ description.\r\n
+comment6.params=
+comment6.target=Bid\ getHighestBid()
+comment6.text=\r\n\ @return\ The\ highest\ bid\ for\ this\ lot.\r\n\ \ \ \ \ \ \ \ \ This\ could\ be\ null\ if\ there\ is\r\n\ \ \ \ \ \ \ \ \ no\ current\ bid.\r\n
+numComments=7
+=======
+#BlueJ class context
+comment0.target=Lot
+comment0.text=\r\n\ A\ class\ to\ model\ an\ item\ (or\ set\ of\ items)\ in\ an\r\n\ auction\:\ a\ lot.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\r\n\ @version\ 2016.02.29\r\n
+comment1.params=number\ description
+comment1.target=Lot(int,\ java.lang.String)
+comment1.text=\r\n\ Construct\ a\ Lot,\ setting\ its\ number\ and\ description.\r\n\ @param\ number\ The\ lot\ number.\r\n\ @param\ description\ A\ description\ of\ this\ lot.\r\n
+comment2.params=bid
+comment2.target=boolean\ bidFor(Bid)
+comment2.text=\r\n\ Attempt\ to\ bid\ for\ this\ lot.\ A\ successful\ bid\r\n\ must\ have\ a\ value\ higher\ than\ any\ existing\ bid.\r\n\ @param\ bid\ A\ new\ bid.\r\n\ @return\ true\ if\ successful,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ @return\ A\ string\ representation\ of\ this\ lot's\ details.\r\n
+comment4.params=
+comment4.target=int\ getNumber()
+comment4.text=\r\n\ @return\ The\ lot's\ number.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDescription()
+comment5.text=\r\n\ @return\ The\ lot's\ description.\r\n
+comment6.params=
+comment6.target=Bid\ getHighestBid()
+comment6.text=\r\n\ @return\ The\ highest\ bid\ for\ this\ lot.\r\n\ \ \ \ \ \ \ \ \ This\ could\ be\ null\ if\ there\ is\r\n\ \ \ \ \ \ \ \ \ no\ current\ bid.\r\n
+numComments=7
+>>>>>>> f778407943f59f3948a1021a3bf16816ae3b8180

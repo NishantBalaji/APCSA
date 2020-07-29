@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=IntArrayWorkerTester
+comment1.params=
+comment1.target=void\ testSetMatrix()
+comment1.text=method\ to\ test\ setMatrix
+comment2.params=
+comment2.target=void\ testFillPattern1()
+comment2.text=Method\ to\ test\ fillPattern1
+comment3.params=
+comment3.target=void\ testGetCount()
+comment3.text=Method\ to\ test\ getCount
+comment4.params=
+comment4.target=void\ testGetTotal()
+comment4.text=Method\ to\ test\ getTotal
+comment5.params=
+comment5.target=void\ testGetTotalNested()
+comment5.text=Method\ to\ test\ getTotalNested
+comment6.params=
+comment6.target=void\ testGetLargest()
+comment6.text=Method\ to\ test\ getLargest
+comment7.params=
+comment7.target=void\ testGetColTotal()
+comment7.text=Method\ to\ test\ getColTotal
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

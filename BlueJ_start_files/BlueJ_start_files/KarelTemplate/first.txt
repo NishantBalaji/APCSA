@@ -1,0 +1,7 @@
+KarelWorld
+
+streets 10
+
+avenues 10
+
+beepers 1 4 1

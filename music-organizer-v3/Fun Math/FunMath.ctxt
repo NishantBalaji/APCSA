@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FunMath
+comment1.params=nums
+comment1.target=double\ funAverage(java.util.ArrayList)
+comment2.params=nums
+comment2.target=int\ funSum(java.util.ArrayList)
+comment3.params=base\ exponent
+comment3.target=double\ funExp(int,\ int)
+numComments=4

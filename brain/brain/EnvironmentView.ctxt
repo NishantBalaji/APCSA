@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EnvironmentView
+comment0.text=\r\n\ A\ GUI\ for\ the\ environment,\ with\ runtime\ controls.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ \ 2016.02.29\r\n
+comment1.params=env\ rows\ cols
+comment1.target=EnvironmentView(Environment,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EnvironmentView\r\n\ @param\ env\r\n
+comment2.params=rows\ cols
+comment2.target=void\ setupGrid(int,\ int)
+comment2.text=\r\n\ Setup\ a\ new\ environment\ of\ the\ given\ size.\r\n\ @param\ rows\ The\ number\ of\ rows.\r\n\ @param\ cols\ The\ number\ of\ cols;\r\n
+comment3.params=
+comment3.target=void\ showCells()
+comment3.text=\r\n\ Show\ the\ states\ of\ the\ cells.\r\n
+comment4.params=
+comment4.target=void\ setupControls()
+comment4.text=\r\n\ Set\ up\ the\ animation\ controls.\r\n
+comment5.params=speedPercentage
+comment5.target=void\ setDelay(int)
+comment5.text=\r\n\ Set\ the\ animation\ delay.\r\n\ @param\ speedPercentage\ (100-speedPercentage)\ as\ a\ percentage\ of\ the\ LONGEST_DELAY.\r\n
+numComments=6

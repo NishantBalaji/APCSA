@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ColorChooser
+comment0.text=\r\n\ A\ class\ to\ make\ working\ with\ a\ color\ chooser\ easier\r\n\ for\ students.\ \ It\ uses\ a\ JColorChooser\ to\ let\ the\ user\r\n\ pick\ a\ color\ and\ returns\ the\ chosen\ color\ object.\r\n\ \r\n\ @author\ Barb\ Ericson\ ericson@cc.gatech.edu\r\n
+comment1.params=
+comment1.target=java.awt.Color\ pickAColor()
+comment1.text=\r\n\ Method\ to\ let\ the\ user\ pick\ a\ color\ and\ return\r\n\ the\ color\ object.\ \r\n\ @return\ the\ picked\ color\ or\ red\ if\ no\ color\ was\ picked\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=Main\ method\ for\ testing\ the\ ColorChooser
+numComments=3

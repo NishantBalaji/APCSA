@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MailClient
+comment0.text=\r\n\ A\ class\ to\ model\ a\ simple\ email\ client.\ The\ client\ is\ run\ by\ a\r\n\ particular\ user,\ and\ sends\ and\ retrieves\ mail\ via\ a\ particular\ server.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ 2016.02.29\r\n
+comment1.params=server\ user
+comment1.target=MailClient(MailServer,\ java.lang.String)
+comment1.text=\r\n\ Create\ a\ mail\ client\ run\ by\ user\ and\ attached\ to\ the\ given\ server.\r\n
+comment2.params=
+comment2.target=MailItem\ getNextMailItem()
+comment2.text=\r\n\ Return\ the\ next\ mail\ item\ (if\ any)\ for\ this\ user.\r\n
+comment3.params=
+comment3.target=void\ printNextMailItem()
+comment3.text=\r\n\ Print\ the\ next\ mail\ item\ (if\ any)\ for\ this\ user\ to\ the\ text\ \r\n\ terminal.\r\n
+comment4.params=to\ message
+comment4.target=void\ sendMailItem(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Send\ the\ given\ message\ to\ the\ given\ recipient\ via\r\n\ the\ attached\ mail\ server.\r\n\ @param\ to\ The\ intended\ recipient.\r\n\ @param\ message\ The\ text\ of\ the\ message\ to\ be\ sent.\r\n
+numComments=5

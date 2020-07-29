@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=IntArrayWorker
+comment1.params=theMatrix
+comment1.target=void\ setMatrix(int[][])
+comment1.text=\ set\ the\ matrix\ to\ the\ passed\ one\r\n\ @param\ theMatrix\ the\ one\ to\ use\r\n
+comment2.params=
+comment2.target=int\ getTotal()
+comment2.text=\r\n\ Method\ to\ return\ the\ total\ \r\n\ @return\ the\ total\ of\ the\ values\ in\ the\ array\r\n
+comment3.params=
+comment3.target=int\ getTotalNested()
+comment3.text=\r\n\ Method\ to\ return\ the\ total\ using\ a\ nested\ for-each\ loop\r\n\ @return\ the\ total\ of\ the\ values\ in\ the\ array\r\n
+comment4.params=
+comment4.target=void\ fillCount()
+comment4.text=\r\n\ Method\ to\ fill\ with\ an\ increasing\ count\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ print\ the\ values\ in\ the\ array\ in\ rows\ and\ columns\r\n
+comment6.params=
+comment6.target=void\ fillPattern1()
+comment6.text=\ \r\n\ fill\ the\ array\ with\ a\ pattern\r\n
+comment7.params=n
+comment7.target=int\ getCount(int)
+comment8.params=
+comment8.target=int\ getLargest()
+comment9.params=n
+comment9.target=int\ getColTotal(int)
+numComments=10

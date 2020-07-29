@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+#BlueJ class context
+comment0.target=Bid
+comment0.text=\r\n\ A\ class\ that\ models\ an\ auction\ bid.\r\n\ It\ contains\ a\ reference\ to\ the\ Person\ bidding\ and\ the\ amount\ bid.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\r\n\ @version\ 2016.02.29\r\n
+comment1.params=bidder\ value
+comment1.target=Bid(Person,\ long)
+comment1.text=\r\n\ Create\ a\ bid.\r\n\ @param\ bidder\ Who\ is\ bidding\ for\ the\ lot.\r\n\ @param\ value\ The\ value\ of\ the\ bid.\r\n
+comment2.params=
+comment2.target=Person\ getBidder()
+comment2.text=\r\n\ @return\ The\ bidder.\r\n
+comment3.params=
+comment3.target=long\ getValue()
+comment3.text=\r\n\ @return\ The\ value\ of\ the\ bid.\r\n
+numComments=4
+=======
+#BlueJ class context
+comment0.target=Bid
+comment0.text=\r\n\ A\ class\ that\ models\ an\ auction\ bid.\r\n\ It\ contains\ a\ reference\ to\ the\ Person\ bidding\ and\ the\ amount\ bid.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\r\n\ @version\ 2016.02.29\r\n
+comment1.params=bidder\ value
+comment1.target=Bid(Person,\ long)
+comment1.text=\r\n\ Create\ a\ bid.\r\n\ @param\ bidder\ Who\ is\ bidding\ for\ the\ lot.\r\n\ @param\ value\ The\ value\ of\ the\ bid.\r\n
+comment2.params=
+comment2.target=Person\ getBidder()
+comment2.text=\r\n\ @return\ The\ bidder.\r\n
+comment3.params=
+comment3.target=long\ getValue()
+comment3.text=\r\n\ @return\ The\ value\ of\ the\ bid.\r\n
+numComments=4
+>>>>>>> f778407943f59f3948a1021a3bf16816ae3b8180

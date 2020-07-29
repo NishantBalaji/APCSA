@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ A\ cell\ in\ a\ 2D\ cellular\ automaton.\r\n\ The\ cell\ has\ multiple\ possible\ states.\r\n\ This\ is\ an\ implementation\ of\ the\ rules\ for\ Brian's\ Brain.\r\n\ @see\ https\://en.wikipedia.org/wiki/Brian%27s_Brain\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ \ 2016.02.29\r\n
+comment1.params=
+comment1.target=Cell()
+comment1.text=\r\n\ Set\ the\ initial\ state\ to\ be\ DEAD.\r\n
+comment2.params=initialState
+comment2.target=Cell(int)
+comment2.text=\r\n\ Set\ the\ initial\ state.\r\n\ @param\ initialState\ The\ initial\ state\r\n
+comment3.params=
+comment3.target=int\ getNextState()
+comment3.text=\r\n\ Determine\ this\ cell's\ next\ state,\ based\ on\ the\r\n\ state\ of\ its\ neighbors.\r\n\ This\ is\ an\ implementation\ of\ the\ rules\ for\ Brian's\ Brain.\r\n\ @return\ The\ next\ state.\r\n
+comment4.params=neighborList
+comment4.target=void\ setNeighbors(java.util.ArrayList)
+comment4.text=\r\n\ Receive\ the\ list\ of\ neighboring\ cells\ and\ take\r\n\ a\ copy.\r\n\ @param\ neighborList\ Neighboring\ cells.\r\n
+comment5.params=
+comment5.target=int\ getState()
+comment5.text=\r\n\ Get\ the\ state\ of\ this\ cell.\r\n\ @return\ The\ state.\r\n
+comment6.params=state
+comment6.target=void\ setState(int)
+comment6.text=\r\n\ Set\ the\ state\ of\ this\ cell.\r\n\ @param\ The\ state.\r\n
+numComments=7

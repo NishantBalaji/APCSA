@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+#BlueJ class context
+comment0.target=StringExplorer
+comment0.text=\r\n\ A\ program\ to\ allow\ students\ to\ try\ out\ different\ \r\n\ String\ methods.\ \r\n\ @author\ Laurie\ White\r\n\ @version\ April\ 2012\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
+=======
+#BlueJ class context
+comment0.target=StringExplorer
+comment0.text=\r\n\ A\ program\ to\ allow\ students\ to\ try\ out\ different\ \r\n\ String\ methods.\ \r\n\ @author\ Laurie\ White\r\n\ @version\ April\ 2012\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
+>>>>>>> f778407943f59f3948a1021a3bf16816ae3b8180

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lesson23
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Lesson23()
+comment3.params=number1\ number2\ number3\ number4\ number5
+comment3.target=double\ average(double,\ double,\ double,\ double,\ double)
+numComments=4

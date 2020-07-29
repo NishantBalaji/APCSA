@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Instructor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ instructor\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=Instructor(java.lang.String)
+numComments=2

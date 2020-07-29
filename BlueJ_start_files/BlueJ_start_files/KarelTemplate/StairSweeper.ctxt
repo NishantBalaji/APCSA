@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StairSweeper
+comment1.params=
+comment1.target=void\ turnRight()
+comment2.params=
+comment2.target=void\ climbStair()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lesson22
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Lesson22()
+comment3.params=number1\ number2\ number3\ number4\ number5
+comment3.target=double\ average(double,\ double,\ double,\ double,\ double)
+comment3.text=private\ class\ ListenForSlider\ implements\ ChangeListener{\r\n\r\n\t\t\t@Override\r\n\t\t\tpublic\ void\ stateChanged(ChangeEvent\ e)\ {\r\n\t\t\t\t\r\n\t\t\t\t//\ Check\ if\ the\ source\ of\ the\ event\ was\ the\ button\r\n\t\t\t\t\r\n\t\t\t\tif(e.getSource()\ \=\=\ howManyTimes){\r\n\t\t\t\t\t\r\n\t\t\t\t\tlabel3.setText("Perform\ How\ Many\ Times?\ "\ +\ howManyTimes.getValue()\ );\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t}\r\n\t\t\t\t\r\n\t\t\t}\r\n\t\t\r\n\t\t\r\n\t\t\r\n}
+numComments=4

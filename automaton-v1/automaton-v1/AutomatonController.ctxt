@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+#BlueJ class context
+comment0.target=AutomatonController
+comment0.text=\r\n\ Set\ up\ and\ control\ an\ elementary\ cellular\ automaton.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ \ 2016.02.29\r\n
+comment1.params=numberOfCells
+comment1.target=AutomatonController(int)
+comment1.text=\r\n\ Create\ an\ AutomatonController.\r\n\ @param\ numberOfCells\ The\ number\ of\ cells\ in\ the\ automaton.\r\n
+comment2.params=
+comment2.target=AutomatonController()
+comment2.text=\r\n\ Create\ an\ AutomatonController\ with\r\n\ a\ default\ number\ of\ cells.\r\n
+comment3.params=numSteps
+comment3.target=void\ run(int)
+comment3.text=\r\n\ Run\ the\ automaton\ for\ the\ given\ number\ of\ steps.\r\n\ @param\ numSteps\ The\ number\ of\ steps.\r\n
+comment4.params=
+comment4.target=void\ step()
+comment4.text=\r\n\ Run\ the\ automaton\ for\ a\ single\ step.\r\n
+comment5.params=
+comment5.target=void\ reset()
+comment5.text=\r\n\ Reset\ the\ automaton.\r\n
+numComments=6
+=======
+#BlueJ class context
+comment0.target=AutomatonController
+comment0.text=\r\n\ Set\ up\ and\ control\ an\ elementary\ cellular\ automaton.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ \ 2016.02.29\r\n
+comment1.params=numberOfCells
+comment1.target=AutomatonController(int)
+comment1.text=\r\n\ Create\ an\ AutomatonController.\r\n\ @param\ numberOfCells\ The\ number\ of\ cells\ in\ the\ automaton.\r\n
+comment2.params=
+comment2.target=AutomatonController()
+comment2.text=\r\n\ Create\ an\ AutomatonController\ with\r\n\ a\ default\ number\ of\ cells.\r\n
+comment3.params=numSteps
+comment3.target=void\ run(int)
+comment3.text=\r\n\ Run\ the\ automaton\ for\ the\ given\ number\ of\ steps.\r\n\ @param\ numSteps\ The\ number\ of\ steps.\r\n
+comment4.params=
+comment4.target=void\ step()
+comment4.text=\r\n\ Run\ the\ automaton\ for\ a\ single\ step.\r\n
+comment5.params=
+comment5.target=void\ reset()
+comment5.text=\r\n\ Reset\ the\ automaton.\r\n
+numComments=6
+>>>>>>> f778407943f59f3948a1021a3bf16816ae3b8180

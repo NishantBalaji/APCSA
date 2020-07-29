@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+#BlueJ class context
+comment0.target=Magpie2
+comment0.text=\r\n\ A\ program\ to\ carry\ on\ conversations\ with\ a\ human\ user.\r\n\ This\ is\ the\ initial\ version\ that\:\ \ \r\n\ <ul><li>\r\n\ \ \ \ \ \ \ Uses\ indexOf\ to\ find\ strings\r\n\ </li><li>\r\n\ \ \ \ \ \ \ \ \ \ Handles\ responding\ to\ simple\ words\ and\ phrases\ \r\n\ </li></ul>\r\n\ This\ version\ uses\ a\ nested\ if\ to\ handle\ default\ responses.\r\n\ @author\ Laurie\ White\r\n\ @version\ April\ 2012\r\n
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment1.text=\r\n\ Get\ a\ default\ greeting\ \ \ \r\n\ @return\ a\ greeting\r\n
+comment2.params=statement
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+comment2.text=\r\n\ Gives\ a\ response\ to\ a\ user\ statement\r\n\ \r\n\ @param\ statement\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ user\ statement\r\n\ @return\ a\ response\ based\ on\ the\ rules\ given\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRandomResponse()
+comment3.text=\r\n\ Pick\ a\ default\ response\ to\ use\ if\ nothing\ else\ fits.\r\n\ @return\ a\ non-committal\ string\r\n
+numComments=4
+=======
+#BlueJ class context
+comment0.target=Magpie2
+comment0.text=\r\n\ A\ program\ to\ carry\ on\ conversations\ with\ a\ human\ user.\r\n\ This\ is\ the\ initial\ version\ that\:\ \ \r\n\ <ul><li>\r\n\ \ \ \ \ \ \ Uses\ indexOf\ to\ find\ strings\r\n\ </li><li>\r\n\ \ \ \ \ \ \ \ \ \ Handles\ responding\ to\ simple\ words\ and\ phrases\ \r\n\ </li></ul>\r\n\ This\ version\ uses\ a\ nested\ if\ to\ handle\ default\ responses.\r\n\ @author\ Laurie\ White\r\n\ @version\ April\ 2012\r\n
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment1.text=\r\n\ Get\ a\ default\ greeting\ \ \ \r\n\ @return\ a\ greeting\r\n
+comment2.params=statement
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+comment2.text=\r\n\ Gives\ a\ response\ to\ a\ user\ statement\r\n\ \r\n\ @param\ statement\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ user\ statement\r\n\ @return\ a\ response\ based\ on\ the\ rules\ given\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRandomResponse()
+comment3.text=\r\n\ Pick\ a\ default\ response\ to\ use\ if\ nothing\ else\ fits.\r\n\ @return\ a\ non-committal\ string\r\n
+numComments=4
+>>>>>>> f778407943f59f3948a1021a3bf16816ae3b8180
